@@ -1,0 +1,168 @@
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module3\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\refint\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\refint\PeopleViewer.View.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.deps.json
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Common.pdb
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PeopleViewer.Presentation.pdb
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\bin\Debug\net6.0-windows\PersonDataReader.Service.pdb
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.AssemblyReference.cache
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.g.cs
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.cache
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View_MarkupCompile.lref
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewerWindow.baml
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.g.resources
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfoInputs.cache
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.AssemblyInfo.cs
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CoreCompileInputs.cache
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.csproj.CopyComplete
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\refint\PeopleViewer.View.dll
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\PeopleViewer.View.pdb
+C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PeopleViewer.View\obj\Debug\net6.0-windows\ref\PeopleViewer.View.dll

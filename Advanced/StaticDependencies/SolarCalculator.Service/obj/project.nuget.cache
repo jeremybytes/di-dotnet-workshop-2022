@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0C36NfpnozkcqI+A3/SUnnGDIQzoEEjP3+rz66ySDKcxYujREajvCaFCKvejt9yCr3VlG7UI3BlMTstwW4d1sw==",
+  "success": true,
+  "projectFilePath": "C:\\SDD2022\\04-diving-deeper-into-dependency-injection\\Completed\\StaticDependencies\\SolarCalculator.Service\\SolarCalculator.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\angle\\3.0.4\\angle.3.0.4.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\solarcalculator\\3.0.5\\solarcalculator.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

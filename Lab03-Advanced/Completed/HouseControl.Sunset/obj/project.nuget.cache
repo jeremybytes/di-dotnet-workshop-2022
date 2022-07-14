@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGyCbz+R5rq6TEish9CHPQY5mO1sJIfh4xibIL1138tZOa4riwAxBGVFuo0voya8ujAErmMg7GCZzpJZJ2Jb/A==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Lab03-Advanced\\Runthrough\\HouseControl.Sunset\\HouseControl.Sunset.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\angle\\3.1.0\\angle.3.1.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\solarcalculator\\3.1.0\\solarcalculator.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

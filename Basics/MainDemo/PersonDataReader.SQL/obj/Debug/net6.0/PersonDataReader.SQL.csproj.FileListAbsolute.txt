@@ -1,0 +1,75 @@
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\ref\PersonDataReader.SQL.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\refint\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\ref\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PersonDataReader.SQL.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\bin\Debug\net6.0\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\refint\PersonDataReader.SQL.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\PersonDataReader.SQL.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.SQL\obj\Debug\net6.0\ref\PersonDataReader.SQL.dll

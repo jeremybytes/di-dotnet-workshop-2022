@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseControl.Library", "HouseControl.Library\HouseControl.Library.csproj", "{6C267A81-0931-4887-BCA5-A0E757CA8E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseControl.Library.Test", "HouseControl.Library.Test\HouseControl.Library.Test.csproj", "{8DCC8615-14C3-438B-B8A3-E577004C8D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseControl.Sunset", "HouseControl.Sunset\HouseControl.Sunset.csproj", "{89C3E4F2-655C-4116-9145-81408A9A73DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseControl.Sunset.Test", "HouseControl.Sunset.Test\HouseControl.Sunset.Test.csproj", "{5C2EB499-32B6-4306-BAD3-C17DCA9A02BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseControlAgent", "HouseControlAgent\HouseControlAgent.csproj", "{BC1AAF24-3732-423D-84F5-55660226F663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarCalculator.Service", "SolarCalculator.Service\SolarCalculator.Service.csproj", "{06B2BAD0-AB63-47DF-BF8C-43EB4569D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C267A81-0931-4887-BCA5-A0E757CA8E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C267A81-0931-4887-BCA5-A0E757CA8E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C267A81-0931-4887-BCA5-A0E757CA8E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C267A81-0931-4887-BCA5-A0E757CA8E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCC8615-14C3-438B-B8A3-E577004C8D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCC8615-14C3-438B-B8A3-E577004C8D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCC8615-14C3-438B-B8A3-E577004C8D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCC8615-14C3-438B-B8A3-E577004C8D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C3E4F2-655C-4116-9145-81408A9A73DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C3E4F2-655C-4116-9145-81408A9A73DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C3E4F2-655C-4116-9145-81408A9A73DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C3E4F2-655C-4116-9145-81408A9A73DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2EB499-32B6-4306-BAD3-C17DCA9A02BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2EB499-32B6-4306-BAD3-C17DCA9A02BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2EB499-32B6-4306-BAD3-C17DCA9A02BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2EB499-32B6-4306-BAD3-C17DCA9A02BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1AAF24-3732-423D-84F5-55660226F663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1AAF24-3732-423D-84F5-55660226F663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1AAF24-3732-423D-84F5-55660226F663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1AAF24-3732-423D-84F5-55660226F663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B2BAD0-AB63-47DF-BF8C-43EB4569D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B2BAD0-AB63-47DF-BF8C-43EB4569D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B2BAD0-AB63-47DF-BF8C-43EB4569D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B2BAD0-AB63-47DF-BF8C-43EB4569D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,78 @@
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module4\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module5\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.deps.json
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.pdb
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.AssemblyReference.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfoInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfo.cs
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CoreCompileInputs.cache
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CopyComplete
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+D:\Development\Pluralsight\04a Dependency Injection\GitHub-dependency-injection-resources\net60\module6\after\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Logging.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Logging.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\refint\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed-net60\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\ref\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.deps.json
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PersonDataReader.Decorators.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Logging.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Common.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\bin\Debug\net6.0\PeopleViewer.Logging.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.csproj.CopyComplete
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\refint\PersonDataReader.Decorators.dll
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\PersonDataReader.Decorators.pdb
+C:\Development\Sessions\SDD2022\04-diving-deeper-into-dependency-injection\Completed\MainDemo\PersonDataReader.Decorators\obj\Debug\net6.0\ref\PersonDataReader.Decorators.dll

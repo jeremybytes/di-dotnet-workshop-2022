@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Angle/3.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Innovative.Geometry.Angle.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Innovative.Geometry.Angle.dll": {}
+        }
+      },
+      "SolarCalculator/3.0.5": {
+        "type": "package",
+        "dependencies": {
+          "Angle": "3.0.4"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Innovative.SolarCalculator.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Innovative.SolarCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Angle/3.0.4": {
+      "sha512": "iDFW4YC0rZCLGTG4ANu2IXXHc5lL/T16++A7CBTLmn5Gd6qb4VzZGIu1lN5NuxHZbW3+LwtrXi2d7tilw/QQVA==",
+      "type": "package",
+      "path": "angle/3.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Angle.png",
+        "angle.3.0.4.nupkg.sha512",
+        "angle.nuspec",
+        "lib/net40/Innovative.Geometry.Angle.dll",
+        "lib/net40/Innovative.Geometry.Angle.xml",
+        "lib/net45/Innovative.Geometry.Angle.dll",
+        "lib/net45/Innovative.Geometry.Angle.xml",
+        "lib/net461/Innovative.Geometry.Angle.dll",
+        "lib/net461/Innovative.Geometry.Angle.xml",
+        "lib/netcoreapp3.1/Innovative.Geometry.Angle.dll",
+        "lib/netcoreapp3.1/Innovative.Geometry.Angle.xml",
+        "lib/netstandard1.3/Innovative.Geometry.Angle.dll",
+        "lib/netstandard1.3/Innovative.Geometry.Angle.xml",
+        "lib/netstandard2.0/Innovative.Geometry.Angle.dll",
+        "lib/netstandard2.0/Innovative.Geometry.Angle.xml",
+        "lib/netstandard2.1/Innovative.Geometry.Angle.dll",
+        "lib/netstandard2.1/Innovative.Geometry.Angle.xml"
+      ]
+    },
+    "SolarCalculator/3.0.5": {
+      "sha512": "bgD8uA5BVYssg1BQbBFF5825pKOF+ZIpSnzZ+ftly+rNyv55TR8yRUH8kw5Ki8qfWxMxdf7UXnmw4Pjo03UPTw==",
+      "type": "package",
+      "path": "solarcalculator/3.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Solar-Calculator.png",
+        "lib/net40/Innovative.SolarCalculator.dll",
+        "lib/net40/Innovative.SolarCalculator.xml",
+        "lib/net45/Innovative.SolarCalculator.dll",
+        "lib/net45/Innovative.SolarCalculator.xml",
+        "lib/net461/Innovative.SolarCalculator.dll",
+        "lib/net461/Innovative.SolarCalculator.xml",
+        "lib/netcoreapp3.1/Innovative.SolarCalculator.dll",
+        "lib/netcoreapp3.1/Innovative.SolarCalculator.xml",
+        "lib/netstandard1.3/Innovative.SolarCalculator.dll",
+        "lib/netstandard1.3/Innovative.SolarCalculator.xml",
+        "lib/netstandard2.0/Innovative.SolarCalculator.dll",
+        "lib/netstandard2.0/Innovative.SolarCalculator.xml",
+        "lib/netstandard2.1/Innovative.SolarCalculator.dll",
+        "lib/netstandard2.1/Innovative.SolarCalculator.xml",
+        "solarcalculator.3.0.5.nupkg.sha512",
+        "solarcalculator.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SolarCalculator >= 3.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jerem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\SDD2022\\04-diving-deeper-into-dependency-injection\\Completed\\StaticDependencies\\SolarCalculator.Service\\SolarCalculator.Service.csproj",
+      "projectName": "SolarCalculator.Service",
+      "projectPath": "C:\\SDD2022\\04-diving-deeper-into-dependency-injection\\Completed\\StaticDependencies\\SolarCalculator.Service\\SolarCalculator.Service.csproj",
+      "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+      "outputPath": "C:\\SDD2022\\04-diving-deeper-into-dependency-injection\\Completed\\StaticDependencies\\SolarCalculator.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "SolarCalculator": {
+            "target": "Package",
+            "version": "[3.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

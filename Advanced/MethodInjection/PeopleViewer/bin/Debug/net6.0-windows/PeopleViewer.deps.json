@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PeopleViewer/1.0.0": {
+        "dependencies": {
+          "PeopleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PeopleViewer.dll": {}
+        }
+      },
+      "PeopleLibrary/1.0.0": {
+        "runtime": {
+          "PeopleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleViewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

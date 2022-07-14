@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RXR2efTe14dZ34DZqA7nYD3f2iS3fFR3vDCGjLwdYEs=",
+  "Source": "SolarCalculator.Service",
+  "BasePath": "_content/SolarCalculator.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

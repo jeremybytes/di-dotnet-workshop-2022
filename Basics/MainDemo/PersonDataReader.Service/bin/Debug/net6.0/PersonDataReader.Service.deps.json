@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PersonDataReader.Service/1.0.0": {
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "runtime": {
+          "PersonDataReader.Service.dll": {}
+        }
+      },
+      "PeopleViewer.Common/1.0.0": {
+        "runtime": {
+          "PeopleViewer.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonDataReader.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleViewer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{96A047A8-4AD0-44D7-9A70-2792ED073FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawMaze", "DrawMaze\DrawMaze.csproj", "{93B7827F-240D-4815-A447-F96A190FCA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGeneration", "MazeGeneration\MazeGeneration.csproj", "{9338EF70-7200-462B-88A8-022A0A564099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGrid", "MazeGrid\MazeGrid.csproj", "{7319442C-2C5B-4698-B2DD-DBCFC166C43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A047A8-4AD0-44D7-9A70-2792ED073FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A047A8-4AD0-44D7-9A70-2792ED073FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A047A8-4AD0-44D7-9A70-2792ED073FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A047A8-4AD0-44D7-9A70-2792ED073FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B7827F-240D-4815-A447-F96A190FCA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B7827F-240D-4815-A447-F96A190FCA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B7827F-240D-4815-A447-F96A190FCA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B7827F-240D-4815-A447-F96A190FCA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9338EF70-7200-462B-88A8-022A0A564099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9338EF70-7200-462B-88A8-022A0A564099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9338EF70-7200-462B-88A8-022A0A564099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9338EF70-7200-462B-88A8-022A0A564099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7319442C-2C5B-4698-B2DD-DBCFC166C43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7319442C-2C5B-4698-B2DD-DBCFC166C43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7319442C-2C5B-4698-B2DD-DBCFC166C43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7319442C-2C5B-4698-B2DD-DBCFC166C43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

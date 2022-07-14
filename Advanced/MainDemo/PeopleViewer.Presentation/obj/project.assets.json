@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PeopleViewer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        }
+      },
+      "PersonDataReader.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleViewer.Common/1.0.0": {
+      "type": "project",
+      "path": "../PeopleViewer.Common/PeopleViewer.Common.csproj",
+      "msbuildProject": "../PeopleViewer.Common/PeopleViewer.Common.csproj"
+    },
+    "PersonDataReader.Service/1.0.0": {
+      "type": "project",
+      "path": "../PersonDataReader.Service/PersonDataReader.Service.csproj",
+      "msbuildProject": "../PersonDataReader.Service/PersonDataReader.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PeopleViewer.Common >= 1.0.0",
+      "PersonDataReader.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jerem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj",
+      "projectName": "PeopleViewer.Presentation",
+      "projectPath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj",
+      "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PeopleViewer.Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+              "projectPath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+            },
+            "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PersonDataReader.Service\\PersonDataReader.Service.csproj": {
+              "projectPath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Advanced\\Completed\\MainDemo\\PersonDataReader.Service\\PersonDataReader.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

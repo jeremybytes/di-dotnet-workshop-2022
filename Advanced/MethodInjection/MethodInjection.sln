@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleViewer", "PeopleViewer\PeopleViewer.csproj", "{661E03D0-BB79-4E61-9244-FA0B5F0106C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleLibrary", "PeopleLibrary\PeopleLibrary.csproj", "{27B266AD-0C47-4C8B-800F-B1CAF776A97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661E03D0-BB79-4E61-9244-FA0B5F0106C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661E03D0-BB79-4E61-9244-FA0B5F0106C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661E03D0-BB79-4E61-9244-FA0B5F0106C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661E03D0-BB79-4E61-9244-FA0B5F0106C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B266AD-0C47-4C8B-800F-B1CAF776A97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B266AD-0C47-4C8B-800F-B1CAF776A97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B266AD-0C47-4C8B-800F-B1CAF776A97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B266AD-0C47-4C8B-800F-B1CAF776A97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E36D699-F19E-4C72-A76B-A859012CA850}
+	EndGlobalSection
+EndGlobal

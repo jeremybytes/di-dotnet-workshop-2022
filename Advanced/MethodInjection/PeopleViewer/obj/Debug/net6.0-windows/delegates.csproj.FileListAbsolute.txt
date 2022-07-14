@@ -1,0 +1,68 @@
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\delegates.exe
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\delegates.deps.json
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\delegates.runtimeconfig.json
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\delegates.dll
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\ref\delegates.dll
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\bin\Debug\net6.0-windows\delegates.pdb
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.csproj.AssemblyReference.cache
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\App.g.cs
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.cache
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.lref
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\App.baml
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.g.resources
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfoInputs.cache
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfo.cs
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.csproj.CoreCompileInputs.cache
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.dll
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\ref\delegates.dll
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.pdb
+D:\Development\Sessions\Delegates\Completed - dotnet6\delegates\obj\Debug\net6.0-windows\delegates.genruntimeconfig.cache
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\delegates.exe
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\delegates.deps.json
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\delegates.runtimeconfig.json
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\delegates.dll
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\ref\delegates.dll
+D:\Development\Sessions\Delegates\Completed\delegates\bin\Debug\net6.0-windows\delegates.pdb
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\App.g.cs
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.cache
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.lref
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\App.baml
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.g.resources
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfoInputs.cache
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfo.cs
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.csproj.CoreCompileInputs.cache
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.dll
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\ref\delegates.dll
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.pdb
+D:\Development\Sessions\Delegates\Completed\delegates\obj\Debug\net6.0-windows\delegates.genruntimeconfig.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\bin\Debug\net6.0-windows\delegates.exe
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\bin\Debug\net6.0-windows\delegates.deps.json
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\bin\Debug\net6.0-windows\delegates.runtimeconfig.json
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\bin\Debug\net6.0-windows\delegates.dll
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\bin\Debug\net6.0-windows\delegates.pdb
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.csproj.AssemblyReference.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\App.g.cs
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates_MarkupCompile.lref
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\App.baml
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.g.resources
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfoInputs.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfo.cs
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.csproj.CoreCompileInputs.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.dll
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\refint\delegates.dll
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.pdb
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\delegates.genruntimeconfig.cache
+C:\Development\Sessions\SDD2022\02-get-funcy-delegates-in-csharp\Completed\delegates\obj\Debug\net6.0-windows\ref\delegates.dll

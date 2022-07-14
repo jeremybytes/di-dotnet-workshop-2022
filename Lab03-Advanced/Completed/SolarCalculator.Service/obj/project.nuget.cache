@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+wWE8aAVcb/Up7otelmttWnzN/FY87plrJqg/F2Af+VOvFdiYli2oe4pJPTuUr1E/fBozN2hR3CyD/a4z3AHg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Sessions\\CPLA-DI-Workshop\\Lab03-Advanced\\Runthrough\\SolarCalculator.Service\\SolarCalculator.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\angle\\3.1.0\\angle.3.1.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\solarcalculator\\3.1.0\\solarcalculator.3.1.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

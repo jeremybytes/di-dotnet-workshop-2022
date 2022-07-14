@@ -1,0 +1,505 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer\\PeopleViewer.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj",
+        "projectName": "PeopleViewer.Common",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj",
+        "projectName": "PeopleViewer.Presentation",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\PersonDataReader.Service.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\PersonDataReader.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\PeopleViewer.View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\PeopleViewer.View.csproj",
+        "projectName": "PeopleViewer.View",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\PeopleViewer.View.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer\\PeopleViewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer\\PeopleViewer.csproj",
+        "projectName": "PeopleViewer",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer\\PeopleViewer.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\PeopleViewer.View.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.View\\PeopleViewer.View.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\PersonDataReader.CSV.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\PersonDataReader.CSV.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\PersonDataReader.Decorators.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\PersonDataReader.Decorators.csproj"
+              },
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\PersonDataReader.SQL.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\PersonDataReader.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\PersonDataReader.CSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\PersonDataReader.CSV.csproj",
+        "projectName": "PersonDataReader.CSV",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\PersonDataReader.CSV.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.CSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\PersonDataReader.Decorators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\PersonDataReader.Decorators.csproj",
+        "projectName": "PersonDataReader.Decorators",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\PersonDataReader.Decorators.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Decorators\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\PersonDataReader.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\PersonDataReader.Service.csproj",
+        "projectName": "PersonDataReader.Service",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\PersonDataReader.Service.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\PersonDataReader.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\PersonDataReader.SQL.csproj",
+        "projectName": "PersonDataReader.SQL",
+        "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\PersonDataReader.SQL.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PersonDataReader.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\04a Dependency Injection\\GitHub-dependency-injection-resources\\net60\\module5\\after\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

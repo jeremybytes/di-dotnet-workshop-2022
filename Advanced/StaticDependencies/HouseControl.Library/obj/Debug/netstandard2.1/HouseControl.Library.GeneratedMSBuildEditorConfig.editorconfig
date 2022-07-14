@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HouseControl.Library
+build_property.ProjectDir = C:\SDD2022\04-diving-deeper-into-dependency-injection\Completed\StaticDependencies\HouseControl.Library\

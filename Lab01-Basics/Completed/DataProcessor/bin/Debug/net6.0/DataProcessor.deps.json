@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataProcessor/1.0.0": {
+        "dependencies": {
+          "DataProcessor.Library": "1.0.0"
+        },
+        "runtime": {
+          "DataProcessor.dll": {}
+        }
+      },
+      "DataProcessor.Library/1.0.0": {
+        "runtime": {
+          "DataProcessor.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProcessor.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
