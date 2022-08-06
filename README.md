@@ -1,4 +1,4 @@
-# Dependency Injection in .NET [Full-Day Workshop]
+# Dependency Injection in C# [Full-Day Workshop]
 
 ## Description  
 
