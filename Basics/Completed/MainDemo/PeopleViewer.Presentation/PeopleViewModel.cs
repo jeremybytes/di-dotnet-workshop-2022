@@ -34,7 +34,7 @@ public class PeopleViewModel : INotifyPropertyChanged
 
     public string DataReaderType
     {
-        get { return DataReader.GetType().ToString(); }
+        get { return DataReader.GetTypeName(); }
     }
 
 
