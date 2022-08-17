@@ -43,7 +43,7 @@ public class MazeController : Controller
         if (!string.IsNullOrEmpty(algo))
         {
             Assembly? assembly = Assembly.GetAssembly(typeof(RecursiveBacktracker));
-            Type? algoType = assembly?.GetType($"maze_library.{algo}", false, true);
+            Type? algoType = assembly?.GetType($"Algorithms.{algo}", false, true);
             if (algoType != null)
             {
                 algorithm = Activator.CreateInstance(algoType) as IMazeAlgorithm;
