@@ -16,7 +16,7 @@ public class DataParserLoggerTests
 
         // Assert
         mockLogger.Verify(m =>
-            m.Log(It.IsAny<string>(), TestData.BadRecord[0]), Times.Never());
+            m.Log(It.IsAny<string>(), TestData.GoodRecord[0]), Times.Never());
     }
 
     [Test]
